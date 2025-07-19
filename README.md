@@ -1,3 +1,4 @@
+
 # 🙏 Hello, I'm Sanidhya Sharma 👋
 
 ## 🚀 About Me
@@ -47,12 +48,12 @@ GCP, Docker
 ## 📊 GitHub Stats
 
 ![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanidhya2506&show_icons=true&theme=radical)
+
+## 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya2506&layout=compact&theme=radical)
 
 ---
 
 ## 📫 How to reach me
-- 🔗 LinkedIn: [linkedin.com/in/sanidhya-sharma-22ba912237](https://linkedin.com/in/sanidhya-sharma-22ba912237)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sanidhya-sharma-22ba91237/)  
 ---
-
-✨ Let’s build something great together!
