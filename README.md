@@ -1,5 +1,5 @@
 
-# 🙏 Hello, I'm Sanidhya Sharma 👋
+# 🙏 Hello, I'm Sanidhya 👋
 
 ## 🚀 About Me
 I'm a Computer Science and Engineering student at Bikaner Technical University (BTU), deeply passionate about Machine Learning and building solutions that make a difference. I’m currently honing my skills in supervised learning, data analysis, and real-world model evaluation.
