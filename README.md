@@ -2,7 +2,7 @@
 # 🙏 Hello, I'm Sanidhya 👋
 
 ## 🚀 About Me
-I'm a Computer Science and Engineering student at Bikaner Technical University (BTU), deeply passionate about Machine Learning and building solutions that make a difference. I’m currently honing my skills in supervised learning, data analysis, and real-world model evaluation.
+I'm a Computer Science and Engineering student, deeply passionate about Machine Learning and building solutions that make a difference. I’m currently honing my skills in supervised learning, data analysis, and real-world model evaluation.
 
 - 📌 Currently exploring advanced ML concepts and DSA
 - 🌱 Learning by building — recently worked on projects like Spam Detection and Movie Recommendation System
@@ -55,5 +55,5 @@ GCP, Docker
 ---
 
 ## 📫 How to reach me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sanidhya-sharma-22ba91237/)  
+- 🔗 [LinkedIn]()  
 ---
