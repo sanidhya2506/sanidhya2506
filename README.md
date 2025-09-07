@@ -32,6 +32,8 @@ Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn
 **Projects:**  
 - [🎬 Movie Recommendation System](https://github.com/sanidhya2506/Movie-recommended-system)  
 - [📧 Spam-Ham Mail Detection](https://github.com/sanidhya2506/Spam-Ham-Email-Detection)  
+- [💖 MyMatcha – BL Drama Recommendation Model](https://mymatcha-jrjsdk8mm5bobfwdnu88ph.streamlit.app/) *(A personalized recommender designed to suggest BL dramas based on user preferences, cultural nuances & ML-powered similarity measures)*  
+ 
 
 **Tools & Platforms:**  
 Git & GitHub | Jupyter | Linux | SQL | Google Sheets  
