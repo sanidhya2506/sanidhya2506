@@ -1,20 +1,18 @@
 # 🙏 Hello, I'm Sanidhya 👋  
+*Computer Science & Engineering Student | Machine Learning Enthusiast*  
+
 ---
 
 ## 🚀 About Me  
-I'm a **Computer Science and Engineering student**, deeply passionate about **Machine Learning** and building solutions that make a difference.  
-
-- 📌 Exploring **Advanced ML Concepts** & **DSA**  
-- 🌱 Learning by building → *Spam Detection*, *Movie Recommendation System*  
-- 👯 Collaborating on **Coding Club & TNP Cell** initiatives  
-- 💡 Curious mind → Love solving problems & exploring new ideas  
+🌟 Passionate about **Machine Learning** and **Problem Solving**  
+💻 Exploring **Advanced ML Concepts** & **DSA**  
+🤝 Building and Collaborating → *Spam Detection*, *Movie Recommender*  
+💡 Always curious, always learning.  
 
 ---
 
 ## 💬 Ask Me About  
-- Python 🐍 | C++ ⚔️ | Java ☕  
-- Machine Learning & Data Science 📊  
-- GitHub, DSA, Jupyter Notebooks 💻  
+🧩 DSA | 📊 Machine Learning | ☁️ Cloud | 💻 GitHub  
 
 ---
 
@@ -27,16 +25,16 @@ I'm a **Computer Science and Engineering student**, deeply passionate about **Ma
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-**Machine Learning & Data Science:**  
-Supervised & Unsupervised Learning | Model Evaluation |  
+**ML & Data Science:**  
+📌 Supervised & Unsupervised Learning | 📌 Model Evaluation  
 Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn  
 
 **Projects:**  
-- [📽️ Movie Recommendation System](https://github.com/sanidhya2506/Movie-recommended-system)  
+- [🎬 Movie Recommendation System](https://github.com/sanidhya2506/Movie-recommended-system)  
 - [📧 Spam-Ham Mail Detection](https://github.com/sanidhya2506/Spam-Ham-Email-Detection)  
 
 **Tools & Platforms:**  
-Git & GitHub | Jupyter Notebooks | Linux | SQL | Google Sheets  
+Git & GitHub | Jupyter | Linux | SQL | Google Sheets  
 
 **Cloud & DevOps (Learning):**  
 GCP | Docker 🐳  
@@ -44,29 +42,31 @@ GCP | Docker 🐳
 ---
 
 ## 🏆 Achievements  
-- 🥇 Ranked **199th in Rajasthan 12th Board (RBSE)**  
-- 🗣️ Winner of the *Speak Up* Essay Competition (Ajmer Range Police)  
+🏅 Ranked **199th in Rajasthan 12th Board (RBSE)**  
+🥇 Winner of *Speak Up* Essay Competition (Ajmer Range Police)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanidhya2506&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanidhya2506&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya2506&layout=compact&theme=radical)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanidhya2506&show_icons=true&theme=radical" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhya2506&theme=radical" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhya2506&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
 ## ✨ Dynamic Widgets  
-📖 **Daily Quote:**  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+📖 **Daily Quote (Auto-refresh):**  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=${new Date().getTime()})  
 
 🐍 **Contribution Snake:**  
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)  
 
-👀 **Profile Visitors**  
+👀 **Profile Visitors:**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanidhya2506&label=Profile%20Views&color=ff69b4&style=for-the-badge)  
-
 
 ---
 
@@ -75,4 +75,5 @@ GCP | Docker 🐳
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sanidhya2506.github.io/Portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
 
