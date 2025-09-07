@@ -60,7 +60,8 @@ GCP | Docker 🐳
 ## ✨ Dynamic Widgets  
 
 📖 **Daily Quote (Auto-refresh):**  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=${new Date().getTime()})  
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default)
+
 
 🐍 **Contribution Snake:**  
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)  
