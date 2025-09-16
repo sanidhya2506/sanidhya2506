@@ -61,7 +61,7 @@ GCP | Docker 🐳
 
 ## ✨ Dynamic Widgets  
 
-📖 **Daily Quote (Auto-refresh):**  
+📖 **Daily Quote:**  
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default)
 
 
