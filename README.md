@@ -36,6 +36,7 @@ I enjoy building projects that question *how* and *why* systems are designed —
 A minimalist, text-first social archive where people document **social injustice and harm**, turning lived experiences into **actionable prevention insights** — so what happened to one should not happen to another.
 
 🔗 Live: https://sanidhya2506.github.io/Parivaar/  
+💻 GitHub:https://github.com/sanidhya2506/Parivaar
 
 **Highlights:**
 - Anonymous & secure experience sharing
@@ -65,7 +66,8 @@ Connections begin with **thoughts, writing, and emotional clarity**, not appeara
 ### 💖 MyMatcha — Personalized BL Drama Recommender  
 An ML-powered recommendation system that suggests **BL dramas** based on user preferences, similarity measures, and cultural context.
 
-🔗 Live App: https://mymatcha-jrjsdk8mm5bobfwdnu88ph.streamlit.app/
+🔗 Live App: https://newmymatcha.onrender.com/
+💻 GitHub:https://github.com/sanidhya2506/NewMyMatcha
 
 **Highlights:**
 - Content-based filtering
