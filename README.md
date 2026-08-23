@@ -1,4 +1,4 @@
-# Sanidhya Sharma
+# 👋 Hi, I'm Sanidhya Sharma
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;ML+%7C+AI+%7C+Data+%7C+Systems;Building+technology+that+respects+people;Turning+ideas+into+working+systems" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## 🌱 About Me
 
 I'm a **Computer Science & Engineering student at Bikaner Technical University**, graduating in **2027**, with a strong interest in building intelligent, useful, and human-centered technology.
 
@@ -27,34 +27,34 @@ What interests me most is not simply making software work, but asking:
 
 My work sits at the intersection of:
 
-- **Machine Learning & Applied AI**
-- **Data Analysis & Experimentation**
-- **DSA & Problem Solving**
-- **Backend & API Development**
-- **Databases & System Design**
-- **Social-impact technology**
-- **HCI, ethics & human-centered product design**
+- 🧠 **Machine Learning & Applied AI**
+- 📊 **Data Analysis & Experimentation**
+- 🧩 **DSA & Problem Solving**
+- 🏗️ **Backend & API Development**
+- 🗄️ **Databases & System Design**
+- 🌍 **Social-impact technology**
+- 🧑‍💻 **HCI, ethics & human-centered product design**
 
 I particularly enjoy building **text-first, friction-aware systems** that encourage intentional interaction rather than maximizing attention.
 
 ---
 
-## Current Focus
+## 🚀 What I'm Currently Building & Learning
 
-- Strengthening **Machine Learning, AI & LLM fundamentals**
-- Working with **data analysis, experimentation and recommendation systems**
-- Learning and building with **FastAPI, REST APIs, authentication and databases**
-- Developing my understanding of **backend architecture and system design**
-- Learning **Docker, cloud deployment and CI/CD**
-- Exploring **RAG, vector databases, agents and AI-powered applications**
-- Consistently improving **DSA and problem-solving**
-- Exploring **research-oriented and socially responsible applications of AI**
+- 🧠 Strengthening **Machine Learning, AI & LLM fundamentals**
+- 📊 Working with **data analysis, experimentation and recommendation systems**
+- ⚙️ Learning and building with **FastAPI, REST APIs, authentication and databases**
+- 🏗️ Developing my understanding of **backend architecture and system design**
+- 🐳 Learning **Docker, cloud deployment and CI/CD**
+- 🤖 Exploring **RAG, vector databases, agents and AI-powered applications**
+- 🧩 Consistently improving **DSA and problem-solving**
+- 🔬 Exploring **research-oriented and socially responsible applications of AI**
 
 ---
 
-# Technical Skills
+# 🧠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -63,7 +63,7 @@ I particularly enjoy building **text-first, friction-aware systems** that encour
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI / ML / Data
+### 🤖 AI / ML / Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -75,7 +75,7 @@ I particularly enjoy building **text-first, friction-aware systems** that encour
 
 **AI / LLM:** Gemini API • LangChain • LangGraph • RAG • Vector Databases • FAISS • Chroma • Pinecone
 
-### Backend / APIs / Databases
+### ⚙️ Backend / APIs / Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -87,7 +87,7 @@ I particularly enjoy building **text-first, friction-aware systems** that encour
 
 REST APIs • JWT Authentication • CRUD • API Integration • Postman • Database Design
 
-### Systems / DevOps / Tools
+### 🏗️ Systems / DevOps / Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -100,9 +100,9 @@ REST APIs • JWT Authentication • CRUD • API Integration • Postman • Da
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-## Parivaar — Collective Memory for Social Safety
+## 🕊️ Parivaar — Collective Memory for Social Safety
 
 **Vasudhaiva Kutumbakam — The World Is One Family**
 
@@ -117,12 +117,12 @@ A minimalist, text-first social archive where people document experiences of **s
 - Designed for awareness and prevention rather than virality
 - Human-centered and friction-aware interaction design
 
-**Live:** https://sanidhya2506.github.io/Parivaar/  
-**GitHub:** https://github.com/sanidhya2506/Parivaar
+🔗 **Live:** https://sanidhya2506.github.io/Parivaar/  
+💻 **GitHub:** https://github.com/sanidhya2506/Parivaar
 
 ---
 
-## Essay2Dating — Dating Without Photos
+## 📝 Essay2Dating — Dating Without Photos
 
 *A friction-first social experiment.*
 
@@ -136,12 +136,12 @@ Essay2Dating challenges swipe culture by removing profile photos entirely. Conne
 - HCI & ethics-oriented experimentation
 - Designed for intentional interaction
 
-**Live:** https://sanidhya2506.github.io/ESSAY2DATING/  
-**GitHub:** https://github.com/sanidhya2506/ESSAY2DATING
+🔗 **Live:** https://sanidhya2506.github.io/ESSAY2DATING/  
+💻 **GitHub:** https://github.com/sanidhya2506/ESSAY2DATING
 
 ---
 
-## MyMatcha — Personalized BL Drama Recommender
+## 💖 MyMatcha — Personalized BL Drama Recommender
 
 A content-based recommendation system designed to recommend BL dramas using user preferences, textual metadata and similarity.
 
@@ -155,13 +155,13 @@ A content-based recommendation system designed to recommend BL dramas using user
 - Built with empathy for niche and underrepresented audiences
 - Deployed application
 
-**Live:** https://newmymatcha.onrender.com/  
-**GitHub:** https://github.com/sanidhya2506/NewMyMatcha  
-**Research DOI:** https://doi.org/10.5281/zenodo.17203071
+🔗 **Live:** https://newmymatcha.onrender.com/  
+💻 **GitHub:** https://github.com/sanidhya2506/NewMyMatcha  
+🔬 **Research DOI:** https://doi.org/10.5281/zenodo.17203071
 
 ---
 
-## SupportPilot AI — AI Customer Support Platform
+## 🎧 SupportPilot AI — AI Customer Support Platform
 
 A backend-focused AI customer support platform built around real-world support workflows.
 
@@ -177,11 +177,11 @@ A backend-focused AI customer support platform built around real-world support w
 - AI-ready architecture for intelligent support workflows
 - Deployment-oriented development
 
-**GitHub:** https://github.com/sanidhya2506/supportpilot-ai
+💻 **GitHub:** https://github.com/sanidhya2506/supportpilot-ai
 
 ---
 
-## ABlytics — A/B Testing Analysis
+## 📊 ABlytics — A/B Testing Analysis
 
 A data-analysis project focused on understanding experimental outcomes from a large-scale A/B testing dataset.
 
@@ -192,11 +192,11 @@ A data-analysis project focused on understanding experimental outcomes from a la
 - Data cleaning and exploration
 - Business-oriented interpretation of results
 
-**GitHub:** https://github.com/sanidhya2506/ABlytics
+💻 **GitHub:** https://github.com/sanidhya2506/ABlytics
 
 ---
 
-## Customer Churn Prediction
+## 📉 Customer Churn Prediction
 
 A machine learning project using customer data to predict potential churn.
 
@@ -208,21 +208,21 @@ A machine learning project using customer data to predict potential churn.
 - ~79% model accuracy
 - Evaluation-driven ML workflow
 
-**GitHub:** https://github.com/sanidhya2506/customer-churn-analysis
+💻 **GitHub:** https://github.com/sanidhya2506/customer-churn-analysis
 
 ---
 
-## PRPilot — AI Pull Request Assistant
+## 🤖 PRPilot — AI Pull Request Assistant
 
 An AI-powered developer tool designed to assist with Pull Request analysis and review workflows.
 
 **Tech:** Python • Gemini API • GitHub workflows
 
-**GitHub:** https://github.com/sanidhya2506/PRPilot
+💻 **GitHub:** https://github.com/sanidhya2506/PRPilot
 
 ---
 
-## More Projects
+## 🔗 More Projects
 
 | Project | What it explores |
 |---|---|
@@ -233,11 +233,11 @@ An AI-powered developer tool designed to assist with Pull Request analysis and r
 | **url-shortener** | Backend APIs and URL shortening |
 | **ERPB** | Full application / product engineering exploration |
 
-Explore everything on **GitHub:** https://github.com/sanidhya2506
+👉 Explore everything on **GitHub:** https://github.com/sanidhya2506
 
 ---
 
-# DSA & Problem Solving
+# 🧩 DSA & Problem Solving
 
 I believe strong software engineering starts with understanding **how to solve problems**, not just which framework to use.
 
@@ -253,7 +253,7 @@ Focused areas include:
 
 ---
 
-# Systems & Backend
+# 🏗️ Systems & Backend
 
 I've been deliberately expanding beyond ML into understanding **how software works underneath the model**.
 
@@ -281,7 +281,7 @@ My goal is to understand the complete path:
 
 ---
 
-# Research & Social Impact
+# 🔬 Research & Social Impact
 
 I'm particularly interested in projects where **AI and software engineering meet real human problems**.
 
@@ -299,14 +299,14 @@ The system considers factors such as diagnostic value, cost and resource availab
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 🏅 **199th Rank — Rajasthan 12th Board (RBSE)**  
 🥇 **Winner — "Speak Up" Essay Competition, Ajmer Range Police**
 
 ---
 
-# Computer Science Foundations
+# 📚 Computer Science Foundations
 
 Currently building depth across:
 
@@ -324,7 +324,7 @@ Currently building depth across:
 
 ---
 
-# Engineering Philosophy
+# 💭 My Engineering Philosophy
 
 > **Build systems that respect humans — not exploit them.**
 
@@ -343,7 +343,7 @@ It's also about **intent, responsibility and human impact.**
 
 ---
 
-# GitHub Stats  
+# 📊 GitHub Stats  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanidhya2506&show_icons=true&theme=radical" height="150" />
@@ -353,20 +353,20 @@ It's also about **intent, responsibility and human impact.**
 
 ---
 
-# Dynamic Widgets  
+# ✨ Dynamic Widgets  
 
-**Daily Quote**  
+📖 **Daily Quote**  
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical)
 
-**Contribution Snake**  
+🐍 **Contribution Snake**  
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-**Profile Visitors**  
+👀 **Profile Visitors**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=sanidhya2506&label=Profile%20Views&color=ff69b4&style=for-the-badge)
 
 ---
 
-# Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -389,5 +389,5 @@ It's also about **intent, responsibility and human impact.**
 <p align="center">
   <b>Thanks for visiting.</b>
   <br/>
-  Building thoughtfully. Learning continuously.
+  Building thoughtfully. Learning continuously. 🌱
 </p>
