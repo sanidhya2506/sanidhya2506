@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sanidhya2506.github.io/Portfolio/">Portfolio</a> •
-  <a href="https://github.com/sanidhya2506">GitHub</a> •
-  <a href="https://doi.org/10.5281/zenodo.17203071">MyMatcha Research DOI</a>
+  <a href="https://sanidhya2506.github.io/sanidhya.dev/">Portfolio</a> •
+  <a href="https://github.com/sanidhya2506">GitHub</a> 
 </p>
 
 <p align="center">
