@@ -244,7 +244,7 @@ I believe strong software engineering starts with understanding **how to solve p
 ### Practice
 
 - **450+** problems on GeeksforGeeks
-- **50+** problems on NeetCode
+- **100+** problems on NeetCode
 - **50+** problems on LeetCode
 
 Focused areas include:
